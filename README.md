@@ -29,7 +29,7 @@ print(B)
 ```
 
 ## Output:
-![](output1.png)
+![output1](output1.png)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
